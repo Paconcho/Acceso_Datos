@@ -98,7 +98,7 @@ public class App43 {
 				}
 				System.out.println("Total de alumnos: " + contador);
 			}
-		} catch (SQLException e) {
+		}  catch (SQLException e) {
 			System.out.println("Error: " + e.getMessage());
 		}
 	}
