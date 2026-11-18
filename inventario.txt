@@ -1,0 +1,7 @@
+Nombre;Precio;Stock;Categoria
+Plátanos;1.6;100;Frutos del bosque
+Sandía;0.95;50;Verano
+Fresas;2.9;80;Frutos del bosque
+Piña;2.2;40;Tropicales
+Melocotón;1.8;65;Verano
+Zapote;3.6;120;Tropicales
